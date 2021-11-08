@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/welcome/static/css/main.64e9f361.chunk.css",
+    "main.js": "/welcome/static/js/main.58242c33.chunk.js",
+    "main.js.map": "/welcome/static/js/main.58242c33.chunk.js.map",
+    "runtime-main.js": "/welcome/static/js/runtime-main.1f39ff2c.js",
+    "runtime-main.js.map": "/welcome/static/js/runtime-main.1f39ff2c.js.map",
+    "static/js/2.aaaaebe6.chunk.js": "/welcome/static/js/2.aaaaebe6.chunk.js",
+    "static/js/2.aaaaebe6.chunk.js.map": "/welcome/static/js/2.aaaaebe6.chunk.js.map",
+    "index.html": "/welcome/index.html",
+    "static/css/main.64e9f361.chunk.css.map": "/welcome/static/css/main.64e9f361.chunk.css.map",
+    "static/js/2.aaaaebe6.chunk.js.LICENSE.txt": "/welcome/static/js/2.aaaaebe6.chunk.js.LICENSE.txt",
+    "static/media/Welcome.module.css": "/welcome/static/media/AutografPersonalUseOnly-mOBm.92156804.ttf",
+    "static/media/cartoonized.3feef5bb.jpg": "/welcome/static/media/cartoonized.3feef5bb.jpg",
+    "static/media/music.08abf95d.jpg": "/welcome/static/media/music.08abf95d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f39ff2c.js",
+    "static/js/2.aaaaebe6.chunk.js",
+    "static/css/main.64e9f361.chunk.css",
+    "static/js/main.58242c33.chunk.js"
+  ]
+}
